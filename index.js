@@ -5,14 +5,14 @@ const jobData = [
    
     {
         id: 1,
-        category: 'healthcare',
-        jobType: 'Contract',
-        location: 'Colombo',
-        salary: 'Rs. 15000/month',
-        company: 'HealthPlus',
-        description: 'We are seeking a healthcare consultant with experience in public health and clinical practices. The ideal candidate will have a strong background in healthcare management.',
+        category: '',
+        jobType: '',
+        location: '',
+        salary: '',
+        company: '',
+        description: '',
         image: 'img8.jpg',
-        postedTime: '2023-03-01'
+        postedTime: ''
     },
     
 ];
